@@ -1,0 +1,7 @@
+Vijaya\resource\JobResource.class
+Vijaya\entity\Entity.class
+Vijaya\JAXRSConfiguration.class
+Vijaya\business\JobBusiness.class
+Vijaya\dao\Dao.class
+Vijaya\entity\Job.class
+Vijaya\dao\JobDao.class
